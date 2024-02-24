@@ -6,12 +6,28 @@ output: slidy_presentation
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+
+# remember on commit to merge main branch with render_html branch
+# git add presentation.RMD
+# git add presentation.html
+# git commit -a
+# git merge main render_html
+# git push
+
+colorize <- function(x, color) {
+  if (knitr::is_latex_output()) {
+    sprintf("\\textcolor{%s}{%s}", color, x)
+  } else if (knitr::is_html_output()) {
+    sprintf("<span style='color: %s;'>%s</span>", color,
+      x)
+  } else x
+}
 ```
 
 ## Goals
 
 - Provide insight into OSM data generation data structures by editing
-- Introduce the HOT Tasking Manager by editing transportation data in Africa
+- Introduce the HOT Tasking Manager by editing transportation data in rural Kenya
 
 
 ## OpenStreetMap
@@ -50,16 +66,40 @@ and [hidden labour](https://mitsloan.mit.edu/ideas-made-to-matter/hidden-work-cr
 
 ## HOT Tasking Manager
 
-- last time we demo'd the iD Editor - edit OSM within a web browser
 - how to coordinate large scale missions on a topic?
 - Introducing the HOT Tasking manager!!
+_ [Humanitarian OpenStreetMap Team](https://www.hotosm.org/)
 
-- Exercise 3. Go to the HOT Tasking manager. Login. Explore projects. Search for transportation.
+### Exercise 3. 
 
-## Humanitarian OpenStreetMap Team
+> Go to the [HOT Tasking Manager](https://tasks.hotosm.org/) and login. Go to 
+explore projects and search for **transportation**. Click on [**A Participatory GIS Toolkit for Transportation Needs Assessments in Rural Areas**.](https://tasks.hotosm.org/projects/12614) Read the description, questions and comments, and click on **Contribute**.
 
-- [Humanitarian OpenStreetMap Team](https://www.nature.com/articles/s41598-021-82404-z)
+## Pick a tile to map
 
+- **`r colorize("Green", "#40AC8C")`** means done
+- **`r colorize("Turquoise", "#ADE6EF")`** means ready of validation
+- **`r colorize("Grey", "grey")`** mean unavailable
+- **`r colorize("Yellow", "#FCECA4")`** means more work needed
+- **White** means available
 
-## 
+### Exersize 4.
 
+> Read the instructions. Pick a tile to map. Click on it, and then click **Map selected task**.
+
+Tips. 
+
+- If you pick one beside a completed tile, you can scroll over to see what it looks like when it's done.
+- Pick a small tile, or consider splitting into manageable pieces.
+
+## Mapping
+
+- Split into manageable pieces
+- Refer to the instructions
+- Use **Select another task to bail out!**
+- Commit your changes
+- Use **completion** when done
+
+## Reflections
+
+- How did it go?
