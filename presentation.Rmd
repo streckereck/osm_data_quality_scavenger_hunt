@@ -7,7 +7,7 @@ output: slidy_presentation
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 
-# doing most of the editing on the main branch for convenience...
+# editing on the main branch for convenience...
 # remember on commit to merge main branch with render_html branch
 
 # git checkout main
@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # git checkout render_html
 # git merge main
-# git push
+# git push origin render_html
 
 colorize <- function(x, color) {
   if (knitr::is_latex_output()) {
