@@ -7,11 +7,18 @@ output: slidy_presentation
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 
+# doing most of the editing on the main branch for convenience...
 # remember on commit to merge main branch with render_html branch
+
+# git checkout main
 # git add presentation.RMD
 # git add presentation.html
+# git add [any other changes]
 # git commit -a
-# git merge main render_html
+# git push
+
+# git checkout render_html
+# git merge main
 # git push
 
 colorize <- function(x, color) {
