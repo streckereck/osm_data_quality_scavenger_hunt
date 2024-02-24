@@ -33,8 +33,8 @@ colorize <- function(x, color) {
 
 ## Goals
 
-- Provide insight into OSM data generation data structures by editing
-- Introduce the HOT Tasking Manager by editing transportation data in rural Kenya
+- Provide insight into OSM data generation data structures by editing.
+- Introduce the HOT Tasking Manager by editing transportation data in rural Kenya.
 
 
 ## OpenStreetMap
@@ -42,11 +42,11 @@ colorize <- function(x, color) {
 <div class="columns-2">
 ![OpenStreetmap](www/Openstreetmap_logo.svg.png)
 
-- "The volunteered street map of the world" and "the wikipedia of maps"
+- "The volunteered street map of the world" and "the wikipedia of maps".
 - Licensing, data structure, and availability of data facilitate a wide range of 
 uses.
-   - Tri Cities Fix
-   - OSM CanBICS
+   - Tri Cities Fix.
+   - OSM CanBICS.
 - Open ended, flexible, extensive.
 
 </div>
@@ -55,15 +55,15 @@ uses.
 
 - Doing some editing is a great way to understand OSM.
 - Key value pairs documented on the [wiki](https://wiki.openstreetmap.org/).
-- E.g., [highway = cycleway](https://wiki.openstreetmap.org/wiki/Tag:highway%3Dcycleway)
+- E.g., [highway = cycleway](https://wiki.openstreetmap.org/wiki/Tag:highway%3Dcycleway).
 
 ### Exercise 1. 
 > On [OpenStreetMap.org](https://www.openstreetmap.org), zoom into a feature, right click, click **query features** to view the tags. Leave it open!
 
 ## volunteered...
 
-- Editing takes time and effort
-- [The rise of corporate editors](https://www.mdpi.com/2220-9964/8/5/232)
+- Editing takes time and effort.
+- [The rise of corporate editors](https://www.mdpi.com/2220-9964/8/5/232).
 - [Involuntary geographic information](https://doi.org/10.1080/00045608.2011.595657), [fauxtomation](https://logicmag.io/failure/the-automation-charade/), 
 and [hidden labour](https://mitsloan.mit.edu/ideas-made-to-matter/hidden-work-created-artificial-intelligence-programs).
 
@@ -75,7 +75,7 @@ and [hidden labour](https://mitsloan.mit.edu/ideas-made-to-matter/hidden-work-cr
 
 - how to coordinate large scale missions on a topic?
 - Introducing the HOT Tasking manager!!
-_ [Humanitarian OpenStreetMap Team](https://www.hotosm.org/)
+- [Humanitarian OpenStreetMap Team](https://www.hotosm.org/).
 
 ### Exercise 3. 
 
@@ -84,28 +84,28 @@ explore projects and search for **transportation**. Click on [**A Participatory 
 
 ## Pick a tile to map
 
-- **`r colorize("Green", "#40AC8C")`** means done
-- **`r colorize("Turquoise", "#ADE6EF")`** means ready of validation
-- **`r colorize("Grey", "grey")`** mean unavailable
-- **`r colorize("Yellow", "#FCECA4")`** means more work needed
-- **White** means available
+- **`r colorize("Green", "#40AC8C")`** means done.
+- **`r colorize("Turquoise", "#ADE6EF")`** means ready of validation.
+- **`r colorize("Grey", "grey")`** mean unavailable.
+- **`r colorize("Yellow", "#FCECA4")`** means more work needed.
+- **White** means available.
 
 ### Exersize 4.
 
 > Read the instructions. Pick a tile to map. Click on it, and then click **Map selected task**.
 
-Tips. 
+**Tips.** 
 
-- If you pick one beside a completed tile, you can scroll over to see what it looks like when it's done.
+- If you pick a tile beside a completed tile, you can scroll over to take a look.
 - Pick a small tile, or consider splitting into manageable pieces.
 
 ## Mapping
 
-- Split into manageable pieces
-- Refer to the instructions
+- Split into manageable pieces.
+- Refer to the instructions.
 - Use **Select another task to bail out!**
-- Commit your changes
-- Use **completion** when done
+- Commit your changes.
+- Use **completion** when done.
 
 ## Reflections
 
