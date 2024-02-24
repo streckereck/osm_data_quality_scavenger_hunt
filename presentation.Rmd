@@ -21,14 +21,14 @@ knitr::opts_chunk$set(echo = FALSE)
 # git merge main
 # git push origin render_html
 
-colorize <- function(x, color) {
-  if (knitr::is_latex_output()) {
-    sprintf("\\textcolor{%s}{%s}", color, x)
-  } else if (knitr::is_html_output()) {
-    sprintf("<span style='color: %s;'>%s</span>", color,
-      x)
-  } else x
-}
+# colorize <- function(x, color) {
+#   if (knitr::is_latex_output()) {
+#     sprintf("\\textcolor{%s}{%s}", color, x)
+#   } else if (knitr::is_html_output()) {
+#     sprintf("<span style='color: %s;'>%s</span>", color,
+#       x)
+#   } else x
+# }
 ```
 
 ## Goals
@@ -84,11 +84,6 @@ explore projects and search for **transportation**. Click on [**A Participatory 
 
 ## Pick a tile to map
 
-- **`r colorize("Green", "#40AC8C")`** means done.
-- **`r colorize("Turquoise", "#ADE6EF")`** means ready of validation.
-- **`r colorize("Grey", "grey")`** mean unavailable.
-- **`r colorize("Yellow", "#FCECA4")`** means more work needed.
-- **White** means available.
 
 ### Exersize 4.
 
