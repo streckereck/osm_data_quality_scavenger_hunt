@@ -21,25 +21,22 @@ knitr::opts_chunk$set(echo = FALSE)
 # git merge main
 # git push origin render_html
 
-# colorize <- function(x, color) {
-#   if (knitr::is_latex_output()) {
-#     sprintf("\\textcolor{%s}{%s}", color, x)
-#   } else if (knitr::is_html_output()) {
-#     sprintf("<span style='color: %s;'>%s</span>", color,
-#       x)
-#   } else x
-# }
 ```
+
+# osm_tasking_exersize
+Quick tour of the HOT Tasking Manager (30 mins).
+
+Presented to the CHATR Lab Feb 27, 2024.
 
 ## Goals
 
 - Provide insight into OSM data generation data structures by editing.
 - Introduce the HOT Tasking Manager by editing transportation data in rural Kenya.
+- Can we use this tool to task OSM bike data collection?
 
 
 ## OpenStreetMap
 
-<div class="columns-2">
 ![OpenStreetmap](www/Openstreetmap_logo.svg.png)
 
 - "The volunteered street map of the world" and "the wikipedia of maps".
@@ -49,25 +46,23 @@ uses.
    - OSM CanBICS.
 - Open ended, flexible, extensive.
 
-</div>
-
 ## VGI generation
 
-- Doing some editing is a great way to understand OSM.
+- Editing is a great way to understand OSM.
 - Key value pairs documented on the [wiki](https://wiki.openstreetmap.org/).
 - E.g., [highway = cycleway](https://wiki.openstreetmap.org/wiki/Tag:highway%3Dcycleway).
 
-### Exercise 1. 
+#### ***Exercise 1.*** 
 > On [OpenStreetMap.org](https://www.openstreetmap.org), zoom into a feature, right click, click **query features** to view the tags. Leave it open!
 
-## volunteered...
+## "Volunteered..."
 
 - Editing takes time and effort.
 - [The rise of corporate editors](https://www.mdpi.com/2220-9964/8/5/232).
 - [Involuntary geographic information](https://doi.org/10.1080/00045608.2011.595657), [fauxtomation](https://logicmag.io/failure/the-automation-charade/), 
 and [hidden labour](https://mitsloan.mit.edu/ideas-made-to-matter/hidden-work-created-artificial-intelligence-programs).
 
-### Exercise 2. 
+#### ***Exercise 2.*** 
 
 > What is the editing history of the feature?
 
@@ -77,15 +72,15 @@ and [hidden labour](https://mitsloan.mit.edu/ideas-made-to-matter/hidden-work-cr
 - Introducing the HOT Tasking manager!!
 - [Humanitarian OpenStreetMap Team](https://www.hotosm.org/).
 
-### Exercise 3. 
+#### ***Exercise 3.***
 
 > Go to the [HOT Tasking Manager](https://tasks.hotosm.org/) and login. Go to 
 explore projects and search for **transportation**. Click on [**A Participatory GIS Toolkit for Transportation Needs Assessments in Rural Areas**.](https://tasks.hotosm.org/projects/12614) Read the description, questions and comments, and click on **Contribute**.
 
-## Pick a tile to map
+## Where to map?
 
 
-### Exersize 4.
+#### ***Exersize 4.***
 
 > Read the instructions. Pick a tile to map. Click on it, and then click **Map selected task**.
 

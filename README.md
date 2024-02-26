@@ -1,6 +1,77 @@
 # osm_tasking_exersize
 Quick tour of the HOT Tasking Manager (30 mins).
 
-An slidey presentation created with RMarkdown. Presented to the CHATR Lab Feb 27, 2024.
+Presented to the CHATR Lab Feb 27, 2024.
 
-Click [here to view the presentation](https://streckereck.github.io/osm_tasking_exersize/presentation.html)
+## Goals
+
+- Provide insight into OSM data generation data structures by editing.
+- Introduce the HOT Tasking Manager by editing transportation data in rural Kenya.
+- Can we use this tool to task OSM bike data collection?
+
+
+## OpenStreetMap
+
+![OpenStreetmap](www/Openstreetmap_logo.svg.png)
+
+- "The volunteered street map of the world" and "the wikipedia of maps".
+- Licensing, data structure, and availability of data facilitate a wide range of 
+uses.
+   - Tri Cities Fix.
+   - OSM CanBICS.
+- Open ended, flexible, extensive.
+
+## VGI generation
+
+- Editing is a great way to understand OSM.
+- Key value pairs documented on the [wiki](https://wiki.openstreetmap.org/).
+- E.g., [highway = cycleway](https://wiki.openstreetmap.org/wiki/Tag:highway%3Dcycleway).
+
+#### ***Exercise 1.*** 
+> On [OpenStreetMap.org](https://www.openstreetmap.org), zoom into a feature, right click, click **query features** to view the tags. Leave it open!
+
+## "Volunteered..."
+
+- Editing takes time and effort.
+- [The rise of corporate editors](https://www.mdpi.com/2220-9964/8/5/232).
+- [Involuntary geographic information](https://doi.org/10.1080/00045608.2011.595657), [fauxtomation](https://logicmag.io/failure/the-automation-charade/), 
+and [hidden labour](https://mitsloan.mit.edu/ideas-made-to-matter/hidden-work-created-artificial-intelligence-programs).
+
+#### ***Exercise 2.*** 
+
+> What is the editing history of the feature?
+
+## HOT Tasking Manager
+
+- how to coordinate large scale missions on a topic?
+- Introducing the HOT Tasking manager!!
+- [Humanitarian OpenStreetMap Team](https://www.hotosm.org/).
+
+#### ***Exercise 3.***
+
+> Go to the [HOT Tasking Manager](https://tasks.hotosm.org/) and login. Go to 
+explore projects and search for **transportation**. Click on [**A Participatory GIS Toolkit for Transportation Needs Assessments in Rural Areas**.](https://tasks.hotosm.org/projects/12614) Read the description, questions and comments, and click on **Contribute**.
+
+## Where to map?
+
+
+#### ***Exersize 4.***
+
+> Read the instructions. Pick a tile to map. Click on it, and then click **Map selected task**.
+
+**Tips.** 
+
+- If you pick a tile beside a completed tile, you can scroll over to take a look.
+- Pick a small tile, or consider splitting into manageable pieces.
+
+## Mapping
+
+- Split into manageable pieces.
+- Refer to the instructions.
+- Use **Select another task to bail out!**
+- Commit your changes.
+- Use **completion** when done.
+
+## Reflections
+
+- How did it go?
