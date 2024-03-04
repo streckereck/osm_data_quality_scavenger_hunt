@@ -1,13 +1,10 @@
-# osm_tasking_exersize
-Quick tour of the HOT Tasking Manager (30 mins).
-
+# OpenStreetMap Data Quality Scavenger Hunt
 Presented to the CHATR Lab Feb 27, 2024.
 
 ## Goals
 
-- Provide insight into OSM data generation data structures by editing.
-- Introduce the HOT Tasking Manager by editing transportation data in rural Kenya.
-- Can we use this tool to task OSM bike data collection?
+- Provide insight into OSM data generation and data structures.
+- Critical look at data quality in our neighbourhoods.
 
 
 ## OpenStreetMap
@@ -41,37 +38,33 @@ and [hidden labour](https://mitsloan.mit.edu/ideas-made-to-matter/hidden-work-cr
 
 > What is the editing history of the feature?
 
-## HOT Tasking Manager
+## OSM data quality scavenger hunt. 
 
-- how to coordinate large scale missions on a topic?
-- Introducing the HOT Tasking manager!!
-- [Humanitarian OpenStreetMap Team](https://www.hotosm.org/).
+- Choose on an area that you know - you will focus on that area.
+- Think of recent changes:
+  - Transportation infrastructure (walking or biking infrastructure!)
+  - Buildings (new construction?)
+  - Amenities (new/old businesses)
 
-#### ***Exercise 3.***
+## Scavenger hunt - iD Editor
 
-> Go to the [HOT Tasking Manager](https://tasks.hotosm.org/) and login. Go to 
-explore projects and search for **transportation**. Click on [**A Participatory GIS Toolkit for Transportation Needs Assessments in Rural Areas**.](https://tasks.hotosm.org/projects/12614) Read the description, questions and comments, and click on **Contribute**.
+- Does the map reflect the recent change?
+  - If yes, who added it? What other edits have they made? Why do you think they did this?
+  - If not, can you add it? (no worries if too complicated!)
+- Can you find a corporate editor?
+  - Why are they doing this?
+- What are the hot topics in your area of interest?
 
-## Where to map?
+## Ohsome dashboard
 
+- Intrinsic indicators of data quality
+  - Count of edits
+  - Count of editors
+- Garden metaphor of OSM editing
 
-#### ***Exersize 4.***
-
-> Read the instructions. Pick a tile to map. Click on it, and then click **Map selected task**.
-
-**Tips.** 
-
-- If you pick a tile beside a completed tile, you can scroll over to take a look.
-- Pick a small tile, or consider splitting into manageable pieces.
-
-## Mapping
-
-- Split into manageable pieces.
-- Refer to the instructions.
-- Use **Select another task to bail out!**
-- Commit your changes.
-- Use **completion** when done.
-
-## Reflections
-
-- How did it go?
+## Scavenger hunt - Ohsome
+- Go to the [ohSome Dashboard](https://dashboard.ohsome.org)
+- Create a timeline of the count, length, or area of the feature you are interested in.
+- Is your feature type being maintained?
+- When was it added?
+- Zooming out a bit, do you see an area where you are concerned about completeness?
