@@ -12,11 +12,12 @@ Presented to the CHATR Lab March 5, 2024.
 ![OpenStreetmap](www/Openstreetmap_logo.svg.png)
 
 - "The volunteered street map of the world" and "the wikipedia of maps".
-- Licensing, data structure, and availability of data facilitate a wide range of 
-uses.
-   - Tri Cities Fix.
-   - OSM CanBICS.
 - Open ended, flexible, extensive.
+- Open Database License (ODbL) https://www.openstreetmap.org/copyright/
+   - Provide credit
+   - Make clear the data is available under ODbL
+>You are free to copy, distribute, transmit and adapt our data, as long as you credit OpenStreetMap and its contributors. If you alter or build upon our data, you may distribute the result only under the same license.
+
 
 
 ## "Volunteered..."
