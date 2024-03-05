@@ -1,5 +1,5 @@
 # OpenStreetMap Data Quality Scavenger Hunt
-Presented to the CHATR Lab Feb 27, 2024.
+Presented to the CHATR Lab March 5, 2024.
 
 ## Goals
 
