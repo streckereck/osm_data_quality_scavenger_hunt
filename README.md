@@ -54,7 +54,13 @@ and [hidden labour](https://mitsloan.mit.edu/ideas-made-to-matter/hidden-work-cr
 > Click on the editor's name to view their bio
 
 
-## Scavenger hunt - iD Editor
+## Scavenger hunt
+
+**Prizes** *Vegan*
+1. Nanaimo bar
+2. Chocolate chip cookie
+3. Chocolate croissant
+
 *Level 1: intro*
 
 - [The tags of a feature that interests you](https://docs.google.com/document/d/1-nlcA7pEITME6mTbeNB9VeJbaGqFVXwl6vjtLAvuN5c/edit?usp=sharing).
