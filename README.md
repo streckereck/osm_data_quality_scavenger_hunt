@@ -42,23 +42,16 @@ and [hidden labour](https://mitsloan.mit.edu/ideas-made-to-matter/hidden-work-cr
    - Shopping
 
 #### ***Exercise 1.*** 
-> On [OpenStreetMap.org](https://www.openstreetmap.org), zoom into a feature that is interesting to you, right click, click **query features** to view the tags. Take a screenshot, and paste it into the google doc for that item. Please use one page or less!
-
-**Scavenger hunt**
-- [The tags of a feature that interests you](https://docs.google.com/document/d/1-nlcA7pEITME6mTbeNB9VeJbaGqFVXwl6vjtLAvuN5c/edit?usp=sharing).
+> On [OpenStreetMap.org](https://www.openstreetmap.org), zoom into a feature that is interesting to you, right click, click **query features** to view the tags. Take a screenshot, and paste it into the google doc for that scavenger hunt item. Please use one page or less!
 
 #### ***Exercise 2.*** 
 
 > Click on the tag to view the wiki.
 
-**Scavenger hunt**
-- [The wiki page for a tag that interests you](https://docs.google.com/document/d/1GvRpsvmZKoKFserfXpxB8M9MnJHOMx51kSAnArZsOdY/edit?usp=sharing).
-
 #### ***Exercise 2.*** 
 
 > Click on the editor's name to view their bio
 
-- [The bio of the person who last edited your feature of interest](https://docs.google.com/document/d/1G4jYFKUg7sj6GAK59WKXtR9pdf6MtqIMuw86SbQD7Pg/edit?usp=sharing).
 
 ## Scavenger hunt - iD Editor
 *Level 1: intro*
