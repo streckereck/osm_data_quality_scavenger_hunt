@@ -82,6 +82,8 @@ and [hidden labour](https://mitsloan.mit.edu/ideas-made-to-matter/hidden-work-cr
 - [A healthcare feature](https://docs.google.com/document/d/1Ke9ba6eDJ94F0FOlYSQXsJ0h_v4_QSycbpHC4tG0998/edit?usp=sharing).
 - [A cultural feature](https://docs.google.com/document/d/1_mGvqwIfHHz9nVglwZLAYROcVbmK-2qyN7PuB766vnw/edit?usp=sharing).
 - [An Indigenous feature](https://docs.google.com/document/d/1nYQdBa-OlayWKhv-H4e5pFwYOK5TxFJKDYoF_Za9KJw/edit?usp=sharing).
+----
+*Level 4: OSM prowess!*
 - [A recent change that is mapped](https://docs.google.com/document/d/1UjbLA_R-cJQQeXaFx3V5YLAds2ccOGO3esQFeTPimb0/edit?usp=sharing).
 - [A recent change that is not mapped](https://docs.google.com/document/d/1030E8f6IxmRZixr9W0kHrducLkaWMbtCNaDvv8QbjPE/edit?usp=sharing).
    - bonus point for adding it!
