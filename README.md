@@ -56,7 +56,7 @@ and [hidden labour](https://mitsloan.mit.edu/ideas-made-to-matter/hidden-work-cr
 
 ## Scavenger hunt
 
-**Prizes** *Vegan*
+**Prizes** *(vegan)*
 1. Nanaimo bar
 2. Chocolate chip cookie
 3. Chocolate croissant
