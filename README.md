@@ -26,6 +26,8 @@ Presented to the CHATR Lab March 5, 2024.
 - [The rise of corporate editors](https://www.mdpi.com/2220-9964/8/5/232).
 - [Involuntary geographic information](https://doi.org/10.1080/00045608.2011.595657), [fauxtomation](https://logicmag.io/failure/the-automation-charade/), 
 and [hidden labour](https://mitsloan.mit.edu/ideas-made-to-matter/hidden-work-created-artificial-intelligence-programs).
+- > [AI can embed human biases and deploy them at scale](https://www.mckinsey.com/~/media/mckinsey/featured%20insights/artificial%20intelligence/tackling%20bias%20in%20artificial%20intelligence%20and%20in%20humans/mgi-tackling-bias-in-ai-june-2019.pdf)
+- [Missing data](https://github.com/MimiOnuoha/missing-datasets)
 
 ## VGI generation
 
